@@ -1,0 +1,134 @@
+
+
+@media (max-width: 576px){
+
+    /* body, html {
+  overflow-x: ;*/
+
+  .background-desktop{
+      background: url(../imagens/background-mobile.jpg);
+      background-size: cover;
+  }  
+
+  .header{
+      padding: 15%;
+      box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+      align-items: center;
+  }
+
+  .titulo{
+     
+      font-size: 20px;
+      color: #3B4157;
+      text-align:center;
+  }
+
+  .subtitulo{
+      text-align: center;
+      font-size: 10px;
+      color: #f5f5f5;
+  }
+
+  .subtitulo{
+      background: #2fa22f;
+      align-items: center;
+  }
+
+  .video-yt{
+      margin-top: 20px;
+      margin-left: 400px;
+      align-items: center;
+  }
+
+  .background-desktop:after{
+      content: url(../imagens/seta_preta.png);
+      position: absolute;
+      font-size: 1rem;
+      animation: setaanimada 0.6s infinite alternate ease-in-out;
+      left: 600px; 
+      margin-bottom: 100px;
+  }
+
+
+  
+.informacao-cremes{
+ color:  #484B57;
+ margin-left: 500px; 
+ font-size: 20px;
+ margin-top: 100px;
+ align-items: center;
+}
+
+.texto-cor{
+color: #FF594E;
+margin-left: 500px;
+font-size: 18px;
+}
+
+
+
+.foto-doutor-rafael img{
+   display: none;
+}
+
+
+}
+
+
+
+    
+/* 
+@media (max-width:576px){
+    .hamburguer .menu{
+        display: block;
+    }
+
+    .hamburguer ul nav{
+        display: none;
+    }
+    
+
+
+
+.hamburguer .hamburguer-2{
+        background-color: #000;
+        position: relative;
+        display: block;
+        width: 30px;
+        height: 2px;
+        top: 29px;
+        left: 15px;
+        transition: 0.5s ease-in-out;
+
+}
+
+.hamburguer .hamburguer-2:before,
+.hamburguer .hamburguer-2:after{
+    background-color: #000;
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    transition: 0.2s ease-in-out;
+}
+
+.hamburguer .hamburguer-2:before{
+    top: -10px;
+} 
+
+
+.hamburguer .hamburguer-2:after{
+    top: -10px;
+}
+
+.hamburguer input{
+    display: none;
+} 
+
+}*/
+
+
+
+
+
